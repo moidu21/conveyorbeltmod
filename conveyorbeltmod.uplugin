@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.1",
+	"SemVersion": "1.0.1",
+	"RemoteVersionRange" : "1.0.1",
+	"FriendlyName": "simple conveyor",
+	"Description": "",
+	"Category": "Modding",
+	"CreatedBy": "moidu21",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.3.0",
+			"Enabled": true
+		}
+	]
+}
