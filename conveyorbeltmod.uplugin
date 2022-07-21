@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.1",
-	"SemVersion": "1.0.1",
-	"RemoteVersionRange" : "1.0.1",
+	"VersionName": "1.1.2",
+	"SemVersion": "1.1.2",
+	"RemoteVersionRange" : "1.1.2",
 	"FriendlyName": "simple conveyor",
 	"Description": "",
 	"Category": "Modding",
@@ -20,7 +20,7 @@
 	"Plugins": [
 		{
 			"Name": "SML",
-			"SemVersion": "^3.3.0",
+			"SemVersion": "^3.3.2",
 			"Enabled": true
 		}
 	]
