@@ -1,9 +1,9 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.2.6",
-	"SemVersion": "1.2.6",
-	"RemoteVersionRange" : "1.2.6",
+	"VersionName": "1.2.7",
+	"SemVersion": "1.2.7",
+	"RemoteVersionRange" : "1.2.7",
 	"FriendlyName": "simple conveyor",
 	"Description": "",
 	"Category": "Modding",
